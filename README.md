@@ -41,7 +41,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/ifenkiri.git
+git clone https://github.com/kadibia/ifenkiri.git
 cd ifenkiri
 Install Dependencies:
 
@@ -75,44 +75,7 @@ bash
 Copy
 Edit
 npm start
-The app will start and open in your default browser at http://localhost:3000 (or another port if configured).
-
-Usage
-Once installed, you can:
-
-Browse Movies: View featured and latest movies on the homepage.
-Search & Filter: Use the search bar to find movies by name or filter based on genre and release date.
-View Movie Details: Click on a movie to access detailed information such as synopsis, cast, ratings, and reviews.
-Backend Integration: Benefit from Appwrite-powered features like user authentication and personalized movie data management.
-Contributing
-Contributions are welcome! To contribute:
-
-Fork the repository.
-
-Create a new branch:
-
-bash
-Copy
-Edit
-git checkout -b feature/YourFeature
-Commit your changes:
-
-bash
-Copy
-Edit
-git commit -m "Add new feature"
-Push the branch:
-
-bash
-Copy
-Edit
-git push origin feature/YourFeature
-Open a Pull Request with a detailed description of your changes.
-
-For major changes, please open an issue first to discuss what you would like to change.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+The app will start and open in your default browser at http://localhost:5172 (or another port if configured).
 
 Contact
 For any questions or suggestions, feel free to reach out:
