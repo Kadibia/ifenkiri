@@ -38,10 +38,15 @@ To set up Ifenkiri locally, follow these steps:
 Clone the Repository:
 
 bash
+
 Copy
+
 Edit
+
 `git clone https://github.com/kadibia/ifenkiri.git`
+
 cd ifenkiri
+
 Install Dependencies:
 
 Using npm:
