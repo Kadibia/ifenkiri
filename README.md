@@ -1,6 +1,5 @@
-# ifenkiri
-
-visit http://ifenkiri.unaux.com/
+# Ifenkiri
+Visit the live demo at: http://ifenkiri.unaux.com/
 
 Ifenkiri is a modern movies webapp built for movie enthusiasts to discover, browse, and explore a diverse collection of films. Leveraging the power of React and Tailwind CSS for the frontend, Appwrite for backend services, and the TMDb API for up-to-date movie data, Ifenkiri offers a seamless and engaging experience across all devices.
 
@@ -15,7 +14,7 @@ Contributing
 License
 Contact
 Overview
-Ifenkiri is designed to help you easily explore a wide range of movies. With intuitive search and filter options, responsive design, and detailed movie information, the app is perfect for both casual browsers and avid film enthusiasts. By integrating Appwrite and TMDb, the app ensures reliable backend services and comprehensive movie data.
+Ifenkiri is designed to help you easily explore a wide range of movies. With intuitive search and filter options, a responsive design, and detailed movie information, the app is perfect for both casual browsers and avid film enthusiasts. By integrating Appwrite and TMDb, the app ensures reliable backend services and comprehensive movie data.
 
 Features
 Movie Discovery: Browse through a curated list of movies.
@@ -26,13 +25,13 @@ Modern Stack: Built with React for dynamic UI components and Tailwind CSS for fa
 Backend Integration: Uses Appwrite for authentication, database management, and file storage.
 Reliable Movie Data: Powered by the TMDb API for accurate and extensive movie information.
 Live Demo
-Experience the app live at: ifenkiri.unaux.com
+Experience Ifenkiri live at: http://ifenkiri.unaux.com/
 
 Technologies Used
 Frontend: React – For building interactive user interfaces.
 Styling: Tailwind CSS – For rapid and efficient styling.
-Backend: Appwrite – Handling authentication, database operations, and file storage.
-Movie Data API: TMDb API – To fetch reliable and up-to-date movie information.
+Backend: Appwrite – Handles authentication, database operations, and file storage.
+Movie Data API: TMDb API – Provides reliable and up-to-date movie information.
 Installation
 To set up Ifenkiri locally, follow these steps:
 
@@ -41,7 +40,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/kadibia/ifenkiri.git
+`git clone https://github.com/kadibia/ifenkiri.git`
 cd ifenkiri
 Install Dependencies:
 
@@ -51,7 +50,7 @@ bash
 Copy
 Edit
 npm install
-Or with yarn:
+Or using yarn:
 
 bash
 Copy
@@ -66,7 +65,7 @@ Copy
 Edit
 VITE_TMBD_API_KEY=your_tmdb_api_key
 VITE_APPWRITE_PROJECT_ID=your_project_id
-VITE_APPWRITE_DATABASE_ID=your_databse_id
+VITE_APPWRITE_DATABASE_ID=your_database_id
 VITE_APPWRITE_COLLECTION_ID=your_collection_id
 Run the Development Server:
 
@@ -77,30 +76,30 @@ npm start
 The app will start and open in your default browser at http://localhost:3000 (or another port if configured).
 
 Usage
-Once installed, you can:
+After installation, you can:
 
 Browse Movies: View featured and latest movies on the homepage.
 Search & Filter: Use the search bar to find movies by name or filter based on genre and release date.
 View Movie Details: Click on a movie to access detailed information such as synopsis, cast, ratings, and reviews.
-Backend Integration: Benefit from Appwrite-powered features like user authentication and personalized movie data management.
+Backend Integration: Enjoy features powered by Appwrite, including user authentication and personalized movie data management.
 Contributing
 Contributions are welcome! To contribute:
 
-Fork the repository.
+Fork the Repository
 
-Create a new branch:
+Create a New Branch:
 
 bash
 Copy
 Edit
 git checkout -b feature/YourFeature
-Commit your changes:
+Commit Your Changes:
 
 bash
 Copy
 Edit
 git commit -m "Add new feature"
-Push the branch:
+Push the Branch:
 
 bash
 Copy
@@ -116,5 +115,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contact
 For any questions or suggestions, feel free to reach out:
 
-Email: your.email@example.com
-GitHub: yourusername
+Email: ikevudechukwuka@gmail.com
