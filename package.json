@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "appwrite": "^17.0.0",
+    "react-use": "^17.6.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.6"
+  }
+}
